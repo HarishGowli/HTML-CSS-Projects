@@ -1,0 +1,16 @@
+body{
+            display: flex;
+            justify-content: center;
+        }
+        td,th{
+            border: 1px solid rgb(41, 37, 37);
+            padding: 10px;
+            max-width: 100px;
+            word-wrap: break-word;
+        }
+        table{
+            border-collapse:collapse;
+        }
+        th, .bg{
+            background-color: rgb(227, 225, 225);
+        }
